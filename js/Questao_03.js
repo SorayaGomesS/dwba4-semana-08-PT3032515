@@ -19,7 +19,7 @@ alert("Nome do aluno: " + nome + "\nNota 1: " + primeiraNota + "\nNota 2: " + se
 alert("Nome do aluno: " + nome + "\nNota total: " + soma);
 
 nome = "Amanda Mariana";
-primeiraNota = 8;
+primeiraNota = 10;
 segundaNota = 9;
 multPrimeiraNota = primeiraNota * 0.6;
 multSegundaNota = segundaNota * 0.4;
