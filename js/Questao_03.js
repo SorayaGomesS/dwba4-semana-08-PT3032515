@@ -1,4 +1,4 @@
-var nome = "Soraya Gomes";
+var nome = "João da Silva";
 var primeiraNota = 7;
 var segundaNota = 8.5;
 var multPrimeiraNota = primeiraNota * 0.6;
@@ -8,7 +8,7 @@ var soma = multPrimeiraNota + multSegundaNota;
 alert("Nome do aluno: " + nome + "\nNota 1: " + primeiraNota + "\nNota 2: " + segundaNota);
 alert("Nome do aluno: " + nome + "\nNota total: " + soma);
 
-nome = "Mari Vitoria";
+nome = "Soraya Gomes";
 primeiraNota = 10;
 segundaNota = 9;
 multPrimeiraNota = primeiraNota * 0.6;
@@ -18,7 +18,7 @@ soma = multPrimeiraNota + multSegundaNota;
 alert("Nome do aluno: " + nome + "\nNota 1: " + primeiraNota + "\nNota 2: " + segundaNota);
 alert("Nome do aluno: " + nome + "\nNota total: " + soma);
 
-nome = "Amanda Maciel";
+nome = "Amanda Mariana";
 primeiraNota = 8;
 segundaNota = 9;
 multPrimeiraNota = primeiraNota * 0.6;
