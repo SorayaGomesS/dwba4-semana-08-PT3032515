@@ -27,7 +27,7 @@ class Aluno {
 var alunos = new Array(5);
 alunos[0] = new Aluno("Soraya", "Gomes", 6, 8);
 alunos[1] = new Aluno("Mari", "Vitoria", 10, 8);
-alunos[2] = new Aluno("Amanda", "Maciel", 5, 7);
+alunos[2] = new Aluno("Amanda", "Maciel", 7, 8);
 alunos[3] = new Aluno("Gustavo", "Maximo", 5, 3);
 alunos[4] = new Aluno("Gesilda", "Gomes", 6, 7);
 
